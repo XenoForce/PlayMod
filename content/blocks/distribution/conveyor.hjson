@@ -1,0 +1,4 @@
+speed: 0.55
+
+requirements: [ copper/1 ]
+buildCostMultiplier: 0.1

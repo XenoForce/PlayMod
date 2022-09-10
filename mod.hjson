@@ -1,0 +1,7 @@
+name: playmod
+displayName: Play Mod
+author: XenoTale
+description: This mod makes it easy to play the game.
+version: "1.0.1"
+minGameVersion: "138"
+dependencies: []

@@ -1,0 +1,27 @@
+type: UnitFactory
+name: Player Factory
+description: Player Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: eclipse      , time: 90, requirements: [] }
+	{ unit: corvus       , time: 90, requirements: [] }
+	{ unit: reign        , time: 90, requirements: [] }
+	{ unit: toxopid      , time: 90, requirements: [] }
+	{ unit: omura        , time: 90, requirements: [] }
+	{ unit: arkyid       , time: 90, requirements: [] }
+	{ unit: antumbra     , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: power-source-x
+
+alwaysUnlocked: true
