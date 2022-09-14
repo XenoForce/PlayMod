@@ -1,5 +1,5 @@
 # PlayMod
-A mod to play Mindustry with. It is for the Serpulo planet.
+A mod to play Mindustry with. It is for the Serpulo planet. This mod is not aimed at the Erekir planet.
 
 <br>
 
