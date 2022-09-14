@@ -1,5 +1,5 @@
 # PlayMod
-A mod to play Mindustry with.
+A mod to play Mindustry with. It is for the Serpulo planet.
 
 <br>
 
