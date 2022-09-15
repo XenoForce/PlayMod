@@ -18,3 +18,9 @@ There is a new factory to easily create certain combat units.
 <br>
 
 Some combat units received a speed increase.
+
+<br>
+
+**And Most Important of All:**
+
+Worker drones have increased build speed. (Alpha, Beta, Gamma)
