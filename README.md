@@ -3,6 +3,12 @@ A mod to play Mindustry with. It is for the Serpulo planet. This mod is not aime
 
 <br>
 
+**WARNING:**
+
+This is effectively a cheat mod. Don't use this mod, if you don't want the original game-play of the game spoiled for you!
+
+<br>
+
 **Notes:**
 
 Everything is unlocked right from the start: Turrets, Factories, and Units.
